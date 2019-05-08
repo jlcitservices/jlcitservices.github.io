@@ -1,8 +1,23 @@
-## Welcome to GitHub Pages
+## IT solutions to achieve operational excellence
 
-You can use the [editor on GitHub](https://github.com/jlcitservices/jlcitservices.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+In today’s business climate, every minute counts. Managing your IT services can be time consuming and often frustrating. With our winning IT solutions, JL Computers & IT Services is here to help. We’ll provide your organization with all the IT services that you need - so you have the peace of mind to focus on the rest of your business.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### OUR SERVICES - Intelligent IT Solutions
+
+With a comprehensive range of services, JL Computers & IT Services can guarantee your technology needs are not just met, but exceeded. We work closely with our clients to create customized plans that are seamlessly integrated, effective and sustainable for many years to come. Reach out today to see how we can help.
+
+### LEARN ABOUT US - More Than Just IT Support
+
+Here at JL Computers & IT Services, our mission goes beyond providing technology solutions. We help our clients achieve the highest level of operational excellence so they can focus on what matters - their core business. Through our comprehensive range of services, we ensure our clients stay ahead in the ever-changing technology landscape and maximize their overall success.
+
+### CONTACT US
+
+We always want to hear from you at JL Computers & IT Services. Contact us today to find the customized IT solutions that best fit your needs.
+
+support@jlcitservices.com.au
+0415 786 995
+
+
 
 ### Markdown
 
